@@ -1,19 +1,32 @@
-# Jekyll Example
+Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+=========================
 
-This directory is a brief example of a [Jekyll](https://jekyllrb.com/) site that can be deployed to Vercel with zero configuration.
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-## Deploy Your Own
+## How to use
+ - Place a image in `/img/portfolio/`
+ - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2020-01-18
+img: cabin.png
+alt: image-alt
+project-date: January 2020
+client: The Client
+category: Web Development
+description: The description of the project
 
-Deploy your own Jekyll project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/jekyll&template=jekyll)
-
-_Live Example: https://jekyll-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Jekyll for deployment with Vercel, you can use the [Jekyll CLI](https://jekyllrb.com/docs/usage/) to initialize the project:
-
-```shell
-$ jekyll new my-blog
+---
 ```
+
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+
+---------
+For more details, read the [documentation](http://jekyllrb.com/)
