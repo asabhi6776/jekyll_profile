@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2022-07-15
+img: terraform.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2022
+# client: Start Bootstrap
+category: Devops
+description: Terraform is an open-source tool for provisioning and managing infrastructure as code. It provides a way to define, provision, and manage infrastructure resources, such as virtual machines, databases, and network devices, using a high-level configuration language. This makes it easy to manage infrastructure consistently and repeatably, reducing the risk of errors and improving efficiency. Terraform can be used to manage resources across a variety of cloud providers and on-premises environments, making it a flexible and powerful tool for infrastructure automation. It also provides features for versioning and collaboration, allowing teams to manage infrastructure as part of their software development processes. With its wide range of features and support for a large number of platforms, Terraform has become a popular choice for organizations looking to manage their infrastructure as code.
 ---

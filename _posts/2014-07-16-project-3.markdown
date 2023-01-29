@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2016-07-16
 img: Linux.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2016
+# client: Start Bootstrap
+category: Cloud/Linux
+description: Linux is a free and open-source operating system that is widely used for servers, desktops, and embedded systems. It is known for its stability, security, and versatility, making it a popular choice for a wide range of applications. Linux is based on Unix and provides a Unix-like environment, making it easy for developers and system administrators to work with. It also offers a large number of tools and applications, and its open-source nature means that it is constantly being improved and updated by a large community of developers. Additionally, Linux runs on a variety of hardware, making it a flexible and cost-effective option for many organizations.
 ---

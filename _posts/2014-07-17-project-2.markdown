@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2019-07-17
 img: Docker.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2019
+# client: Start Bootstrap
+category: Devops
+description: Docker is an open-source platform for developing, shipping, and running applications in containers. It provides a way to package and isolate applications and their dependencies into a single, portable unit that can be run on any system with a Docker engine installed. This makes it easy to build, ship, and run applications in a variety of environments, such as local development, test, and production. Docker also offers a rich ecosystem of tools and services, such as the Docker Hub, that make it easy to manage and share containers and their images. This has made Docker a popular choice for developers and organizations looking to modernize their application development and deployment processes.
 ---

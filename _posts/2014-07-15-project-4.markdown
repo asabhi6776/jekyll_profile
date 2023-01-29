@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2018-07-15
+img: aws.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2018
+# client: Start Bootstrap
+category: Cloud
+description: Amazon Web Services (AWS) is a cloud computing platform that offers a wide range of services for computing, storage, and networking. It provides on-demand, scalable, and secure infrastructure services, allowing organizations to focus on their applications and business, without having to worry about the underlying infrastructure. AWS services can be used together or separately, giving customers the flexibility to build and run a wide range of applications and services, from websites and mobile apps, to big data and IoT projects. With a large and growing number of services, a global network of data centers, and a secure and reliable infrastructure, AWS has become the leading cloud computing platform for businesses of all sizes.
 ---

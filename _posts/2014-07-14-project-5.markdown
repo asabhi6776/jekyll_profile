@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2021-07-14
+img: ansible.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2021
+# client: Start Bootstrap
+category: Devops
+description: Ansible is an open-source platform for automating the deployment, configuration, and management of IT systems. It uses a simple and declarative language to describe the desired state of infrastructure and applications, making it easy for IT teams to manage and automate tasks across a wide range of systems and technologies. With support for a large number of platforms and tools, Ansible can be used to manage everything from cloud infrastructure to local network devices. It also integrates well with other tools and technologies, making it a popular choice for IT teams looking to streamline their workflows and improve efficiency. Additionally, its simple and flexible architecture makes it easy for teams to get started with automation and scale as needed.
 ---

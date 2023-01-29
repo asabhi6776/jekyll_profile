@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2020-09-18
 img: k8s.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2020
+# client: Start Bootstrap
+category: Devops
+description: Kubernetes (k8s) is an open-source platform for automating deployment, scaling, and management of containerized applications. It provides a way to deploy and manage applications in a distributed environment, helping to ensure that applications are always available and scalable to meet changing demand. K8s uses a declarative approach to management, allowing developers to specify the desired state of their application and the platform to ensure it is maintained. With a large and active community, K8s has become the de facto standard for managing containers in production.
 ---
