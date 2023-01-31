@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2016
 # client: Start Bootstrap
 category: Cloud/Linux
-description: Linux is a free and open-source operating system that is widely used for servers, desktops, and embedded systems. It is known for its stability, security, and versatility, making it a popular choice for a wide range of applications. Linux is based on Unix and provides a Unix-like environment, making it easy for developers and system administrators to work with. It also offers a large number of tools and applications, and its open-source nature means that it is constantly being improved and updated by a large community of developers. Additionally, Linux runs on a variety of hardware, making it a flexible and cost-effective option for many organizations.
+description: Extensive experience in Linux with over 4 years of hands-on experience in administration, maintenance, and troubleshooting. Strong knowledge of Linux system architecture, networking, and security. Skilled in scripting languages such as Bash and Python for automating tasks and solving complex problems. Proficient in package management, system monitoring, and performance tuning. Experienced in working with virtualization technologies such as KVM and Docker. Adept at providing technical support, troubleshooting and problem-solving, and ensuring high availability of Linux systems.
 ---
