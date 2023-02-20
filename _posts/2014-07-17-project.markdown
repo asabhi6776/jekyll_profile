@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2019-07-17
 img: Docker.png
-alt: image-alt
+alt: docker
 project-date: April 2019
 # client: Start Bootstrap
 category: Devops

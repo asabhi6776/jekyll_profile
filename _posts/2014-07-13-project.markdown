@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2022-07-15
 img: terraform.png
-alt: image-alt
+alt: terraform
 project-date: April 2022
 # client: Start Bootstrap
 category: Devops

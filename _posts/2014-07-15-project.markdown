@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2018-07-15
 img: aws.png
-alt: image-alt
+alt: aws
 project-date: April 2018
 # client: Start Bootstrap
 category: Cloud

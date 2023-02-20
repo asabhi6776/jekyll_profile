@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2020-09-18
 img: k8s.jpg
-alt: image-alt
+alt: kubernetes
 project-date: April 2020
 # client: Start Bootstrap
 category: Devops
